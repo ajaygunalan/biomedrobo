@@ -6,9 +6,21 @@ exclude:             ['_includes/notes_graph.json']
 # Pages deploys your repository (which is usually the repository name).
 baseurl:             ''
 
+
+
+github_repo: "gatebiomed"
+
+# OPTIONAL: override baseurl and url if using a custom domain
+# Note: leave out the trailing / from this value.
+url: "https://ajaygunalan.github.io" #
+
+
+
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
 use_html_extension:  false
+
+
 
 # Set to `true` to open non-internal links in new tabs, or
 # set to `false` to open non-internal links in current tab.
@@ -47,4 +59,9 @@ defaults:
 
 
 scholar:
-    style: ieee-with-url
+  style: custom
+  source: _bibliography
+  bibliography_list_tag: p
+  bibliography_item_tag: p
+  bibtex_filters:
+    - latex
