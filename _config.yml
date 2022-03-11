@@ -59,7 +59,7 @@ defaults:
 
 
 scholar:
-  style: custom
+  style: ieee-with-url
   source: _bibliography
   bibliography_list_tag: p
   bibliography_item_tag: p
