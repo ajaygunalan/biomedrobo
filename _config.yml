@@ -15,7 +15,7 @@ github_repo: "gatebiomed"
 url: "https://ajaygunalan.github.io" #
 
 
-
+# https://github.com/drscotthawley/blog/blob/master/_config.yml
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
 use_html_extension:  false
