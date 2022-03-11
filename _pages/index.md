@@ -3,17 +3,20 @@ layout: page
 title: Home
 id: home
 permalink: /
+
 ---
 
-# Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+## Welcome! 🌱
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+#### About This Site
+This website aims to help biomedical engineers prepare for the Graduate Aptitude Test in Engineering (GATE). The goal of this site is not to repeat what others have done it instead, to select the content that provides the best explanation for the topic and link it. This way, this website will serve as a doorway to great content such as videos, books, blogs, etc., for biomedical engineers. Thus, it is a Knowledge Management System for biomedical engineers. Therefore, use it as a starting point for accessing and remembering great content.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
+
+##### How to use this website?
+You can travel to a particular topic by clicking on notes in the latest [[syllabus]]. If you wish to be a part of this initiative and want to provide your articles blogs for this site. Then, kindly mail us at admin@gatebiomed.com
+
+
 
 <style>
   .wrapper {
