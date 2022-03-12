@@ -4,9 +4,9 @@ bibFile: sensors
 
 ---
 
-### 6.1 Sensors & Sensor signal conditioning circuits
+### 1. Sensors & Sensor signal conditioning circuits
 
-#### 6.1.1. Resistive Sensor
+#### 1.1 Resistive Sensor
 
 A resistive sensor changes its resistance due to changes in physical quantity such as mechanical, thermal, magnetic, optical, and chemical. Now, let us look into different types of resistive sensors.
 
@@ -18,11 +18,11 @@ A resistive sensor changes its resistance due to changes in physical quantity su
 	1.  [[pull up resistors]]
 	2.  [[debouncing capacitors]]
 
-###### Potential Issues 
-1.  Resistance fluctuation due to temperature .
+###### Potential Issues from {% cite Pallas-Areny2001Sensors %} 
+1.  Resistance fluctuation due to temperature.
 2.  A potentiometer is a [[zero-order system]].
 3.  The resistance is not perfectly uniform, limiting the potentiometer's linearity. The agreement between the actual and the theoretical transfer characteristic (here, a straight line) is termed [[conformity]](here linearity).
-4.  For high values of resistance, parasitic capacitance may be important {% cite signaltrain %}.
+4.  For high values of resistance, parasitic capacitance may be important .
 
 ##### Force Sensitive Resistor
 

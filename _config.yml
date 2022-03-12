@@ -61,6 +61,7 @@ defaults:
 scholar:
   style: ieee-with-url
   source: _bibliography
+  bibliography: "/*.bib"
   bibliography_list_tag: p
   bibliography_item_tag: p
   bibtex_filters:
