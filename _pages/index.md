@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-## Welcome! 🌱
+### Welcome! 🌱
 
 #### About This Site
 This website aims to help biomedical engineers prepare for the Graduate Aptitude Test in Engineering (GATE). The goal of this site is not to repeat what others have done. Instead, select the content that provides the best explanation for the topic and link it coherently. This way, this website will serve as a doorway to great content such as videos, books, blogs, etc., for biomedical engineers. Thus, it is a Knowledge Management System for biomedical engineers. Therefore, use it as a starting point for accessing and remembering great content.
