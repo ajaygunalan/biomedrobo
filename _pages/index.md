@@ -15,7 +15,7 @@ This website aims to help biomedical engineers prepare for the Graduate Aptitude
 If you are not preparing for the GATE exam, then this site will still be useful as a content aggregator. In the future, we plan to bring in articles that touch the particles aspect of biomedical engineering, about various medical devices companies, and job prospects in the medical device industries. So, keep an eye here.
 
 #### How to use this website
-You can travel to a particular topic by clicking on it in the latest [[syllabus]]. If you love to be a part of this initiative. Then, kindly mail us at [admin@gatebiomed.com](mailto:admin@gatebiomed.com). Note: no article is created for a topic if there is no link.
+You can travel to a particular topic by clicking on it. You can find all the topics on the [[syllabus]] page. Kindly note that the link will appear if something has been published on that topic. Suppose you like what we do and want to be a part of this initiative. Then, kindly mail us at [admin@gatebiomed.com](mailto:admin@gatebiomed.com). 
 
 #### Monetary Policy
 We do not believe in an advertisement. We just want to provide great quality content out of passion and love for the things which we build as engineers. If you want to support us for our work, contribute to our growth, and be a part of the community. Then, you are welcome to make donations. A small part of this fund goes to climate change actions. You can donate to us by either by [buy me a coffee](https://www.buymeacoffee.com/gateBiomed) or [UPI](https://upayi.ml/ajay.gunalan@axisbank). The money received will be spent on making high-quality content and site maintenance.
