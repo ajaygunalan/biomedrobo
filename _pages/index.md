@@ -12,7 +12,7 @@ permalink: /
 #### About This Site
 This website aims to help biomedical engineers prepare for the Graduate Aptitude Test in Engineering (GATE). The goal of this site is not to repeat what others have done. Instead, select the content that provides the best explanation for the topic and link it coherently. This way, this website will serve as a doorway to great content such as videos, books, blogs, etc., for biomedical engineers. Thus, it is a Knowledge Management System for biomedical engineers. Therefore, use it as a starting point for accessing and remembering great content.
 
-If you are not preparing for the GATE exam, this site will still be useful as a content aggregator. In the future, we plan to bring in articles that touch the particles aspect of biomedical engineering, about various medical devices companies, and job prospects in the medical device industries. So, keep an eye here.
+IIf you are not preparing for the GATE exam, then this site will still be useful as a content aggregator. In the future, we plan to bring in articles that touch the particles aspect of biomedical engineering, about various medical devices companies, and job prospects in the medical device industries. So, keep an eye here.
 
 #### How to use this website
 You can travel to a particular topic by clicking on a topic in the latest [[syllabus]]. Suppose you wish to be a part of this initiative and want to provide your articles for this site. Then, kindly mail us at [admin@gatebiomed.com](mailto:admin@gatebiomed.com). Note: no article is created for a topic if there is no link.
@@ -25,11 +25,12 @@ Kindly avoid using any images, videos, and other blogs from the internet to avoi
 
 #### Plans for the site
 ###### Doing
-1. Working on [sensors and bioinstrumentation](/syllabus#sensors-and-bioinstrumentation){: .internal-link}
+1. We are working on articles in the category of [sensors and bioinstrumentation](/syllabus#sensors-and-bioinstrumentation){: .internal-link}.
 
 ###### To Do
-1. Finish all the topics
-2. Make sure the user finds it easier and simpler to use the site.
+1. Finish writing articles in all categories.
+2. Make sure the user finds it more accessible and simpler to use the site.
+3. To form a team of volunteers to run this site. 
 
 
 
