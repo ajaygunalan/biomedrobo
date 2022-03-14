@@ -26,7 +26,7 @@ We do not believe in an advertisement. We just want to provide great quality con
 Kindly avoid using any images and videos from the internet to avoid copyright infringement. Just link them to the source website. However, if you still want to use it on this site. Then, kindly get proper permission to use them. If you use books, conference articles, and journal papers, kindly cite them using BibTeX.
 
 #### Plans for the site
-1. We are working on articles in the category of [sensors and bioinstrumentation](/syllabus#sensors-and-bioinstrumentation){: .internal-link}.
+1. We are working on articles in the category of [sensors and bioinstrumentation](/content#sensors-and-bioinstrumentation){: .internal-link}.
 2. Make sure the user finds it more accessible and simpler to use the site.
 3. To form a team of volunteers to run this site. 
 
