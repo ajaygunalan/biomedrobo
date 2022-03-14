@@ -10,11 +10,11 @@ permalink: /
 ### Welcome! 🌱
 
 #### About This Site
-This website aims to help biomedical engineers as a content aggregator. In the future, we plan to bring in articles that touch the particles aspect of medical devices, about various medical devices companies, and job prospects in the medical device industries. So, keep an eye here.
+This website aims to help biomedical roboticist as a content aggregator. In the future, we plan to bring in articles that touch the particles aspect of medical devices, about various medical devices companies, and job prospects in the medical device industries. So, keep an eye here.
 
 
 #### How does it differentiate?
-The goal of this site is not to repeat what others have done. Instead, select the content that provides the best explanation for the topic and link it coherently. This way, this website will serve as a doorway to great content such as videos, books, blogs, etc., for biomedical engineers. Thus, it is a Knowledge Management System for biomedical engineers. Therefore, use it as a starting point for accessing and remembering great content.
+The goal of this site is not to repeat what others have done. Instead, select the content that provides the best explanation for the topic and link it coherently. This way, this website will serve as a doorway to great content such as videos, books, blogs, etc., for biomedical engineers. Thus, it is a knowledge management system for biomedical roboticist. Therefore, use it as a starting point for accessing and remembering great content.
 
 #### How to use this website?
 You can travel to a particular topic by clicking on it. You can find all the topics on the [[content]] page. Kindly note that the link will appear if something has been published on that topic. Suppose you like what we do and want to be a part of this initiative. Then, kindly mail us at [admin@biomedrobo.com](mailto:admin@biomedrobo.com). 
