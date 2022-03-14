@@ -1,7 +1,7 @@
 ---
 layout: page
-title: syllabus
-permalink: /syllabus
+title: Content
+permalink: /content
 
 ---
 
