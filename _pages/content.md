@@ -7,3 +7,5 @@ permalink: /content
 
 ### 1. Sensors and Bioinstrumentation
 Sensors - [resistive](/sensors/Resistive-Sensors/){: .internal-link}, capacitive, inductive, piezoelectric, Hall effect, electro chemical, optical; Sensor signal conditioning circuits; application of LASER in sensing and therapy. Origin of biopotentials and their measurement techniques - ECG, EEG, EMG, ERG, EOG, GSR, PCG, Principles of measuring blood pressure, body temperature, volume and flow in arteries, veins and tissues, respiratory measurements and cardiac output measurement. Operating principle of medical equipment - sphygmomanometer, ventilator, cardiac pacemaker, defibrillator, pulse oximeter, hemodialyzer Electrical Isolation (optical and electrical) and Safety of Biomedical Instruments.
+
+### 2. [Noise Reduction in OCT Images ](/image-processing/OCTNoise){: .internal-link}
