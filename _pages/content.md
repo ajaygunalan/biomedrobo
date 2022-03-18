@@ -16,5 +16,5 @@ Operating principle of medical equipment - sphygmomanometer, ventilator, cardiac
 ### 3. Signal Processing
 [Speckle Reduction](/image-processing/OCTNoise){: .internal-link}
 
-### 4. Math with No Math
+### 4. Intuitive Math 
 
