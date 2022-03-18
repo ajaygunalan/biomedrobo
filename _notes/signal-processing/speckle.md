@@ -2,12 +2,17 @@
 layout: note
 title: Speckle Reduction in OCT Images
 bibFile: imageProcessing
-category: Image-Processing
+category: Signal-Processing
 permalink: /:categories/:title/
 
 ---
 
+What is speckle?
 
+
+
+
+<!---
 1. Various speckle reduction methods have been proposed in the last decades, and they can be catergorized into two groups filter-based and diffusion-based. The former approach includes Kuan filter, Lee filter, enhanced Lee filter, weighted median filter and adaptive Wiener filter. The latter approach are anisotropic diffusion, anisotropic diffusion, nonlinear complex diffusion filter {% cite Yan2020Speckle %}.
 
 2. Some standard basic image denoising techniques are mean, median and Gaussian filtering. The current state of the art technique across the board is BM4D, a patch based denoising method. Some speckle noise reduction techniques have been developed specifically for OCT volumes based on locally adaptive filtering, soft thresholding of wavelet subbands, neural networks, and a hybrid wavelet-total variation denoising {% cite Shamouilian2019Total %}.
@@ -21,3 +26,5 @@ permalink: /:categories/:title/
 5. For example, the compounding techniques, which average multiple uncorrelated recordings, are widely used. This class of methods is not preferred because it is time consuming and requires additional imaging system hardware modification. locally adaptive filtering [5], soft thresholding of the wavelet sub-bands, and neural networks have been proposed. "In this paper we propose a novel speckle noise reduction algorithm via solving a convex optimization problem. The objective function to be minimized is defined based on the assumption that the underlying OCT data is a sum of two components: (i ) the clean structures, which are smooth patterns with sharp edges and (ii ) the spatially sparse speckle noise. In the proposed approach, the two components are decomposed and penalized by a unified wavelet-TV regularization and norm, respectively. Morel1 over, the en face fundus information is also considered as a constraint in this optimization problem {% cite Sui2018Speckle %}.
 
 6. Wiener filter, and wavelet filter have been proposed. Of these, use of a wavelet filter is a powerful method to reduce the speckle noise, and this filter is often used in ultrasound images. The model of the speckle noise has a multiplicative nature, and conventional filtering methods are somewhat ineffective against this speckle noise. In 2003, we have developed a denoising method using a wavelet transform for radiographic images. In this paper, we applied the method to OCT images {% cite Murakami2018Speckle %}.
+
+-->

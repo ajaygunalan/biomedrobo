@@ -14,7 +14,7 @@ This website aims to help biomedical roboticist as a content aggregator. In the 
 
 
 #### How does it differentiate?
-The goal of this site is not to repeat what others have done. Instead, select the content that provides the best explanation for the topic and link it coherently. This way, this website will serve as a doorway to great content such as videos, books, blogs, etc., for biomedical engineers. Thus, it is a knowledge management system for biomedical roboticist. Therefore, use it as a starting point for accessing and remembering great content.
+The life of this site is not to repeat what others have done. Instead, select the content that provides the best explanation for the topic and link it coherently. This way, this website will serve as a doorway to great content such as videos, books, blogs, etc., for biomedical engineers. Thus, it is a knowledge management system for biomedical roboticist. Therefore, use it as a starting point for accessing and remembering great content.
 
 #### How to use this website?
 You can travel to a particular topic by clicking on it. You can find all the topics on the [[content]] page. Kindly note that the link will appear if something has been published on that topic. Suppose you like what we do and want to be a part of this initiative. Then, kindly mail us at [admin at biomedrobo dot com](mailto:admin%20at%20biomedrobo%20dot%20com). 
