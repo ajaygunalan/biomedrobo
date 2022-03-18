@@ -8,7 +8,7 @@ baseurl:             ''
 
 
 
-github_repo: "gatebiomed"
+github_repo: "biomedrobo"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value.
