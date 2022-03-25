@@ -31,3 +31,8 @@ FSR is similar to a potentiometer, but here, the wiper is the point of applicati
 1.  [Basic Introduction](https://www.youtube.com/watch?v=1p8AE_QA8qQ)
 2.  [Simple application](https://www.youtube.com/watch?v=u2EHDyrV_F0)
 3.  [Advanced with op-amps](https://www.youtube.com/watch?v=f00t2liHl3Q)
+
+
+### Magnetoresistors
+
+The resistivity of ferromagnetic materials depends on the angle between the direction of electric current and the orientation of magnetization this is known as anisotropic magnetoresistive (AMR) effect {% cite Jogschies2015Recent %}.
