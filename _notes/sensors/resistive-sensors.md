@@ -35,4 +35,8 @@ FSR is similar to a potentiometer, but here, the wiper is the point of applicati
 
 ### Magnetoresistors
 
-The resistivity of ferromagnetic materials depends on the angle between the direction of electric current and the orientation of magnetization this is known as anisotropic magnetoresistive (AMR) effect {% cite Jogschies2015Recent %}.
+The resistivity of ferromagnetic materials depends on the angle between the direction of electric current and the orientation of magnetization this is known as anisotropic magnetoresistive (AMR) effect {% cite Jogschies2015Recent %}. In most conductors the magnetoresistive effect is of a second order when
+compared to the Hall effect. The [giant magnetoresistive effect](https://www.youtube.com/watch?v=xrYl1IAdx6E) was observed in  multilayered structures made up from alternating layers of magnetic and nonmagnetic materials {% cite Pallas-Areny2001Sensors %}.
+
+Anisotropic magnetoresistors (AMRs) and giant magnetoresistors (GMRs) ofer several advantages compared to other magnetic sensors. First, their mathematical model is a zero-order system. This differs from inductive sensors, whose response depends on the time derivative of magnetic flux density. When compared with Hall effect sensors, which also have a zero-order model and measure without contact, magnetoresistors show increased sensitivity, temperature
+range, high frequency passband and  insensitive to mechanical stress. On the other hand, they saturate at lower field strengths and are more expensive {% cite Pallas-Areny2001Sensors %}. 
