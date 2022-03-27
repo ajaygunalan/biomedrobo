@@ -10,7 +10,17 @@ permalink: /:categories/:title/
 ### What is speckle?
 ##### Great Videos
 
-Check the [video](https://www.futurelearn.com/courses/ultrasound-imaging/8/steps/1063646) under section 3.5 Technical description of the images in the course Ultrasound Imaging by the University of Twente.
+Check the [video](https://www.futurelearn.com/courses/ultrasound-imaging/8/steps/1063646) under section 3.5 Technical description of the images in the course [Ultrasound Imaging](https://www.futurelearn.com/courses/ultrasound-imaging) by the University of Twente.
+
+### What is a kernel?
+### What is a wavelet?
+### Difference between the averaging and diversity method?
+### Four Methods of diversity:
+1. Frequency Compounding
+2. Polarization Compounding
+3. Angular Compounding
+4. Spatial Compounding
+### What is Compressive Sampling?
 
 <!---
 1. Various speckle reduction methods have been proposed in the last decades, and they can be catergorized into two groups filter-based and diffusion-based. The former approach includes Kuan filter, Lee filter, enhanced Lee filter, weighted median filter and adaptive Wiener filter. The latter approach are anisotropic diffusion, anisotropic diffusion, nonlinear complex diffusion filter {% cite Yan2020Speckle %}.
