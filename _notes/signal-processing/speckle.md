@@ -15,11 +15,12 @@ Check the [video](https://www.futurelearn.com/courses/ultrasound-imaging/8/steps
 ### What is a kernel?
 ### What is a wavelet?
 ### Difference between the averaging and diversity method?
-### Four Methods of diversity:
-1. Frequency Compounding
-2. Polarization Compounding
-3. Angular Compounding
-4. Spatial Compounding
+### Four Methods of diversity
+  1. Frequency Compounding
+  2. Polarization Compounding
+  3. Angular Compounding
+  4. Spatial Compounding
+
 ### What is Compressive Sampling?
 
 <!---
