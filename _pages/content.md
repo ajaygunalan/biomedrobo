@@ -20,6 +20,6 @@ Operating principle of medical equipment - sphygmomanometer, ventilator, cardiac
 
 #### Probability & Statistics
 
-[Sensitivity vs Specificity](https://www.youtube.com/playlist?list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23), [Auto-correlation vs Cross-correlation](), Sampling theorems, conditional probability, mean, median, mode and standard deviation, random variables, discrete and continuous distributions: normal, Poisson and binomial distributions. Tests of Significance, statistical power analysis, and sample size estimation. Linear Regression and correlation analysis.
+[Sensitivity vs Specificity](https://www.youtube.com/playlist?list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23), Sampling theorems, conditional probability, mean, median, mode and standard deviation, random variables, discrete and continuous distributions: normal, Poisson and binomial distributions. Tests of Significance, statistical power analysis, and sample size estimation. Linear Regression and [correlation analysis]().
 
 
