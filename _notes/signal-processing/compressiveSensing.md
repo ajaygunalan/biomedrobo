@@ -12,7 +12,7 @@ permalink: /:categories/:title/
 
  
 
-<details> <summary>### 1. Why images are compressible: the vastness of images?</summary><img src="/assets/images/cs/whyCompression.PNG"/></details>
+<details> <summary><h3> 1. Why images are compressible: the vastness of images? </h3></summary><img src="/assets/images/cs/whyCompression.PNG"/></details>
 
 ### 2. What is sparsity?
 
