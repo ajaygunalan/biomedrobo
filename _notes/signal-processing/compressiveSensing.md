@@ -1,6 +1,7 @@
 ---
 layout: note
 title: Sparsity and Compression by Steve Brunton
+bibFile: imageProcessing
 category: Signal-Processing
 permalink: /:categories/:title/
 
