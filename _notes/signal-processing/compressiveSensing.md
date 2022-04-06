@@ -8,19 +8,31 @@ permalink: /:categories/:title/
 ---
 
 
-[youtube playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRHP5UA-gIimsXLQyHXxRty)
+- Quick Lecture Notes
+- [youtube playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRHP5UA-gIimsXLQyHXxRty)
 
  
 
-<details> <summary><h3> 1. Why images are compressible: the vastness of images? </h3></summary><img src="/assets/images/cs/whyCompression.PNG"/></details>
+<details>
+  <summary>
+    <h3> 
+      1. Why images are compressible: the vastness of images? 
+    </h3>
+  </summary>
+    <img src="/assets/images/cs/whyCompression.PNG"/>
+</details>
 
-### 2. What is sparsity?
+<details>
+  <summary>
+    <h3> 
+      2. What is sparsity?
+    </h3>
+  </summary>
+    Text Here.
+</details>
 
 
-.details summary { 
-  cursor: pointer;
-}
 
-.details summary > * {
-  display: inline;
-}
+
+
+
