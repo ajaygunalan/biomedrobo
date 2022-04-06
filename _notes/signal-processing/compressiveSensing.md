@@ -17,3 +17,10 @@ permalink: /:categories/:title/
 ### 2. What is sparsity?
 
 
+details summary { 
+  cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+}
