@@ -7,7 +7,6 @@ permalink: /:categories/:title/
 
 ---
 
-# Lecture Notes
 
 [youtube playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRHP5UA-gIimsXLQyHXxRty)
 
@@ -16,5 +15,4 @@ permalink: /:categories/:title/
 
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$ 
 
-## 2. Global Convergence Theorem
 

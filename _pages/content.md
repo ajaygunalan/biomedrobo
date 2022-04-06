@@ -14,7 +14,7 @@ Operating principle of medical equipment - sphygmomanometer, ventilator, cardiac
 
 
 ### 3. Signal Processing
-[Speckle Reduction](/signal-processing/speckle){: .internal-link}, [Kalman Filter](/signal-processing/kalman){: .internal-link}
+[Speckle Reduction](/signal-processing/speckle){: .internal-link}, [Kalman Filter](/signal-processing/kalman){: .internal-link}, [Compressive Sensing](/signal-processing/compressivesensing/){: .internal-link}
 
 ### 4. Intuitive Math 
 
