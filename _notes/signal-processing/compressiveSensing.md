@@ -28,10 +28,27 @@ permalink: /:categories/:title/
       2. What is sparsity?
     </h3>
   </summary>
-    Text Here.
+    <img src="/assets/images/cs/sparsity.PNG"/>
 </details>
 
 
+### 3. Compressed Sensing Overview
+<details>
+  <summary>
+    <h4> 
+      Std. Compression?
+    </h4>
+  </summary>
+    <img src="/assets/images/cs/stdCompress.PNG"/>
+</details>
+<details>
+  <summary>
+    <h4> 
+      Idea of Compressed Sensing
+    </h4>
+  </summary>
+    <img src="/assets/images/cs/CompressSensing.PNG"/>
+</details>
 
 
 
