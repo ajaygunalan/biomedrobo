@@ -57,6 +57,14 @@ permalink: /:categories/:title/
 </details>
 
 
+<details>
+  <summary>
+    <h3> 
+      4. Compressed Sensing: Mathematical foundataions
+    </h3>
+  </summary>
+    <img src="/assets/images/cs/mathOverview.PNG"/>
+</details>
 
 
 
