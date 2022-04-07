@@ -32,23 +32,33 @@ permalink: /:categories/:title/
 </details>
 
 
-### 3. Compressed Sensing Overview
 <details>
   <summary>
-    <h4> 
-      Std. Compression?
-    </h4>
+    <h3> 
+      3. Compressed Sensing Overview
+    </h3>
   </summary>
-    <img src="/assets/images/cs/stdCompress.PNG"/>
+      <details>
+        <summary>
+          <h4> 
+            Std. Compression?
+          </h4>
+        </summary>
+          <img src="/assets/images/cs/stdCompress.PNG"/>
+      </details>
+      <details>
+        <summary>
+          <h4> 
+            Idea of Compressed Sensing
+          </h4>
+        </summary>
+          <img src="/assets/images/cs/CompressSensing.PNG"/>
+      </details>
 </details>
-<details>
-  <summary>
-    <h4> 
-      Idea of Compressed Sensing
-    </h4>
-  </summary>
-    <img src="/assets/images/cs/CompressSensing.PNG"/>
-</details>
+
+
+
+
 
 
 
