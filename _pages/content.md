@@ -16,7 +16,11 @@ Operating principle of medical equipment - sphygmomanometer, ventilator, cardiac
 ### 3. Signal Processing
 [Speckle Reduction](/signal-processing/speckle){: .internal-link}, [Kalman Filter](/signal-processing/kalman){: .internal-link}, [Compressive Sensing](/signal-processing/compressivesensing/){: .internal-link}
 
-### 4. Intuitive Math 
+
+### 4. Surgical Robots
+[The Past, Present, & Future of Robotic Surgery](https://www.youtube.com/watch?v=OFNzOXU3Q1c), [MIS tools](https://www.youtube.com/watch?v=x6Wl4MFEXeY&t=2s)
+
+### 5. Intuitive Math 
 
 #### Probability & Statistics
 
