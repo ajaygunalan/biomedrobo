@@ -66,8 +66,9 @@ permalink: /:categories/:title/
     <img src="/assets/images/cs/mathOverview.PNG"/>
 </details>
 
-
- ### 5. Underdetermined systems and compressed sensing [Matlab](https://github.com/ajaygunalan/digital_image_processing/blob/main/compressive_sensing/lec1.m)
+<h3>
+    5. Underdetermined systems and compressed sensing [Matlab](https://github.com/ajaygunalan/digital_image_processing/blob/main/compressive_sensing/lec1.m)
+</h3>
 
 
 
