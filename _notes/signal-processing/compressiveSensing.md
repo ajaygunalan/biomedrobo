@@ -66,9 +66,54 @@ permalink: /:categories/:title/
     <img src="/assets/images/cs/mathOverview.PNG"/>
 </details>
 
-<h3>
-    5. Underdetermined systems and compressed sensing [Matlab](https://github.com/ajaygunalan/digital_image_processing/blob/main/compressive_sensing/lec1.m)
-</h3>
+<details>
+  <summary>
+    <h3> 
+      6. Underdetermined systems and compressed sensing [Matlab]
+    </h3>
+  </summary>
+    <a href="https://github.com/ajaygunalan/digital_image_processing/blob/main/compressive_sensing/lec6.m">Link</a>
+</details>
+
+<details>
+  <summary>
+    <h3> 
+      7. Beating Nyquist with Compressed Sensing [Matlab]
+    </h3>
+  </summary>
+    <a href="https://github.com/ajaygunalan/digital_image_processing/blob/main/compressive_sensing/lec7.m">Link</a>
+</details>
+
+<details>
+  <summary>
+    <h3> 
+      8. Shannon Nyquist Sampling Theorem
+    </h3>
+  </summary>
+    <img src="/assets/images/cs/nyquist.PNG"/>
+</details>
+
+
+<details>
+  <summary>
+    <h3> 
+      11. Sparsity and the L1 Norm
+    </h3>
+  </summary>
+    <img src="/assets/images/cs/norm.PNG"/>
+</details>
+
+<details>
+  <summary>
+    <h3> 
+      12. Compressed Sensing: When It Works
+    </h3>
+  </summary>
+    <img src="/assets/images/cs/work.PNG"/>
+</details>
+
+
+
 
 
 
