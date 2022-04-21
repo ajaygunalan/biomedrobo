@@ -131,6 +131,16 @@ permalink: /:categories/:title/
     <a href="https://github.com/ajaygunalan/digital_image_processing/blob/main/compressive_sensing/lec14.m">Link</a>
 </details>
 
+<details>
+  <summary>
+    <h3> 
+      16. Robust, Interpretable Statistical Models: Sparse Regression with the LASSO
+    </h3>
+  </summary>
+    <img src="/assets/images/cs/model.PNG"/>
+    <img src="/assets/images/cs/lasso.PNG"/>
+</details>
+
 
 
 
