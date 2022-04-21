@@ -113,6 +113,27 @@ permalink: /:categories/:title/
 </details>
 
 
+<details>
+  <summary>
+    <h3> 
+      13. Robust Regression with the L1 Norm
+    </h3>
+  </summary>
+    <img src="/assets/images/cs/L1reg.PNG"/>
+</details>
+
+<details>
+  <summary>
+    <h3> 
+      14. Robust Regression with the L1 Norm [Matlab]
+    </h3>
+  </summary>
+    <a href="https://github.com/ajaygunalan/digital_image_processing/blob/main/compressive_sensing/lec14.m">Link</a>
+</details>
+
+
+
+
 
 
 
